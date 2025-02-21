@@ -1,6 +1,34 @@
 # Changelog
 
 
+## v1.2.0
+
+[compare changes](https://github.com/nexoscreation/nuxt-google-translate/compare/v1.0.1...v1.2.0)
+
+### 🚀 Enhancements
+
+- Community guide ([9cda649](https://github.com/nexoscreation/nuxt-google-translate/commit/9cda649))
+
+### 🩹 Fixes
+
+- Improve language handling and error handling in Google Translate module ([0d73e25](https://github.com/nexoscreation/nuxt-google-translate/commit/0d73e25))
+
+### 📖 Documentation
+
+- Updated and removed unused. ([546379e](https://github.com/nexoscreation/nuxt-google-translate/commit/546379e))
+- Update CHANGELOG.md for PR #12 ([#12](https://github.com/nexoscreation/nuxt-google-translate/issues/12))
+- Improved documation ([27f6fc6](https://github.com/nexoscreation/nuxt-google-translate/commit/27f6fc6))
+
+### 🏡 Chore
+
+- **release:** V1.0.1 ([d85e081](https://github.com/nexoscreation/nuxt-google-translate/commit/d85e081))
+- Update dependencies ([e163c86](https://github.com/nexoscreation/nuxt-google-translate/commit/e163c86))
+- **release:** V1.1.0 ([504b82e](https://github.com/nexoscreation/nuxt-google-translate/commit/504b82e))
+
+### ❤️ Contributors
+
+- Nexoscreator ([@nexoscreator](http://github.com/nexoscreator))
+
 ## v1.1.0
 
 [compare changes](https://github.com/nexoscreation/nuxt-google-translate/compare/v1.0.1...v1.1.0)
